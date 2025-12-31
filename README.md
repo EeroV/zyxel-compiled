@@ -3,7 +3,8 @@
 
 This repository contains Windows executable binaries compiled from the following repositories:
 
-- [zyxel-modem-backup-extract](https://github_decrypter
+- [zyxel-modem-backup-extract]
+- [https://github.com/inode-/zyxel_password_decrypter]
 
 ## Compilation Details
 
