@@ -1,0 +1,2 @@
+This repository contains Windows executable binaries compiled from the following repositories: https://github.com/iscilyas/zyxel-modem-backup-extract and [https://github.com/inode-/zyxel_password_decrypter].
+Use at your own risk. These binaries are provided ‘as is’ without any warranty. The authors and contributors assume no responsibility for any damage, data loss, or security issues that may result from their use.
