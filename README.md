@@ -13,7 +13,7 @@ The binaries were built using **PyInstaller** with the following command:
 ```bash
 pyinstaller filename.py --onefile
 
-Disclaimer
+## Disclaimer
 
 Use at your own risk. These binaries are provided “as is” without any express or implied warranty.
 The authors and contributors assume no responsibility for any loss, damage, data loss, or security issues arising from their use.
